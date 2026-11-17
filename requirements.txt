@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+pydantic
+pillow
+numpy
+pandas
+scikit-learn
+# optional, needed only for real image/clinical ML models:
+# torch torchvision monai captum shap xgboost
